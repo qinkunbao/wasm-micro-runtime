@@ -13,3 +13,8 @@ product-mini/app-samples/hello-world/test.wasm
 
 build_out
 tests/wamr-test-suites/workspace
+
+# Clion
+.idea/
+cmake-build-debug
+cmake-release-build
